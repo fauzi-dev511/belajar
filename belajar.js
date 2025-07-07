@@ -1,1 +1,1 @@
-aku belajar git
+aku sudah bisa gitcode ..
